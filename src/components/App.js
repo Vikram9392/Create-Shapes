@@ -25,7 +25,7 @@ const App=()=>{
                 )
           })
         }
-          </div>
+          </div>git 
           {/* <div className='square'>
 
           </div>
